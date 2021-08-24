@@ -1,0 +1,14 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+form {
+}
+form .field-row label {
+  display: block;
+  margin: 0.4rem 0;
+}
+
+form .field-row input {
+}
